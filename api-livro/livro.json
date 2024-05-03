@@ -1,0 +1,41 @@
+{
+  "livros": [
+    {
+      "nome": "Harry Potter e a Pedra Filosofal",
+      "autor": "J. K. Rowling",
+      "sinopse": "Harry Potter and the Philosopher's Stone o primeiro dos sete livros da série de fantasia Harry Potter, escrita por J. K. Rowling. O livro conta a história de Harry Potter, um órfão criado pelos tios que descobre, em seu décimo primeiro aniversário, que é um bruxo.",
+      "img": "https://books.google.com.br/books/publisher/content?id=GjgQCwAAQBAJ&hl=pt-BR&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U32CKE-XFfMvnbcz1qW0PS46Lg-Ew&w=1280",
+      "id": 1
+    },
+    {
+      "nome": "Heartstopper: Dois garotos, um encontro",
+      "autor": "Alice Oseman",
+      "sinopse": "Charlie Spring e Nick Nelson não têm quase nada em comum. Charlie é um aluno dedicado e bastante inseguro por conta do bullying que sofre no colégio desde que se assumiu gay. Já Nick é superpopular, especialmente querido por ser um ótimo jogador de rúgbi. Quando os dois passam a sentar um ao lado do outro toda manhã, uma amizade intensa se desenvolve, e eles ficam cada vez mais próximos.",
+      "img": "https://m.media-amazon.com/images/I/81v7ORMps6L._AC_UF894,1000_QL80_.jpg",
+      "id": 2
+    },
+    {
+      "nome": "Batman - A Piada Mortal",
+      "autor": "DC Comics",
+      "sinopse": "Uma nova onda de tráfico deixa Gotham City à beira do caos, trazendo uma droga desenvolvida pelo próprio Coringa. Enquanto o Palhaço do Crime distribui risadas incontidas, Batman e seus aliados terão seus valores colocados à prova à medida que confrontam o lado mais sombrio da cidade e descobrem a verdade sobre a origem do Piadista. Coringa e seu arqui-inimigo estarão cara a cara em um verdadeiro show hilário e macabro, mas, desta vez, a piada vai ser mortal, e somente um deles vai rir por último.",
+      "img": "https://m.media-amazon.com/images/I/91DWo0of98L._SY425_.jpg",
+      "id": 3
+    }
+  ],
+  "filmes": [
+    {
+      "nome": "Vingadores: Ultimato",
+      "autor": "Marvel",
+      "sinopse": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
+      "img": "https://br.web.img3.acsta.net/pictures/19/04/26/17/30/2428965.jpg",
+      "id": 1
+    },
+    {
+      "nome": "Homem de Ferro",
+      "autor": "Marvel",
+      "sinopse": "Tony Stark é um industrial bilionário e inventor brilhante que realiza testes bélicos no exterior, mas é sequestrado por terroristas que o forçam a construir uma arma devastadora. Em vez disso, ele constrói uma armadura blindada e enfrenta seus sequestradores. Quando volta aos Estados Unidos, Stark aprimora a armadura e a utiliza para combater o crime.",
+      "img": "https://img.elo7.com.br/product/zoom/1DFB189/poster-cartaz-iron-man-homem-de-ferro-poster-tematico.jpg",
+      "id": 2
+    }
+  ]
+}

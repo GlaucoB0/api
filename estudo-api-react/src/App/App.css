@@ -1,0 +1,29 @@
+body {
+    width: 100vw;
+    height: 100%;
+}
+
+.btn-container {
+    display: flex;
+    gap: 30px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+section div {
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
+}
+
+img {
+    max-width: 200px;
+}
