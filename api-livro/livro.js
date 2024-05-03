@@ -1,15 +1,15 @@
 import http from 'http'
 import fs from 'fs'
 
-const port = 3333
+const port = 1515
 
 const server = http.createServer((request, response) => {
 
     const { url, method } = request
 
-    response.setHeader('Access-Control-Allow-Origin', '*') // Allow requests from any origin
-    response.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, DELETE') // Allow specified methods
-    response.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization') // Allow specified headers
+    response.setHeader('Access-Control-Allow-Origin', '*') // aceita o acesso de todas as origens
+    response.setHeader('Access-Control-Allow-Methods', 'GET') // Aceita esse metodo ai
+    response.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization') 
 
     fs.readFile('livro.json', (error, data) => {
         if (!error) { // verifica se há erro no json

@@ -7,7 +7,7 @@ const App = () => {
 
     async function Data(topico, id) {
 
-        const livros = await fetch(`http://localhost:3333/${topico}/${id} `)
+        const livros = await fetch(`http://localhost:1515/${topico}/${id} `)
         const json = await livros.json()
 
         setData(json)
